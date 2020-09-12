@@ -1,0 +1,23 @@
+body{
+    background-color: violet;
+}
+
+h1,h2,h3{
+    color: white;
+    text-align: left;
+    font-weight: bold;
+    font-size: 2rem;
+    text-shadow: 4px 4px 4px #aaa;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+}
+ link{
+     color: blue;
+ }
+ h1{
+    text-shadow: 4px 4px 4px #aaa;
+ }
